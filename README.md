@@ -4,10 +4,7 @@
 The materials in this repository are intended to help students improve their manuscripts for the Journal of Emerging Investigators (https://emerginginvestigators.org).
 
 ## Usage
-Simply read the markdown files (.md). To do this locally use a markdown editor.
-
-## Getting help
-For help with git google is for you.
+Simply read the markdown files (.md). If you want to download the files you will need a markdown editor to see them formatted, otherwise just open them as regular plain text files. For more information of markdown files, see: https://www.markdownguide.org/getting-started/
 
 ## Contributors
 Contributions and references are included in each file.
