@@ -50,7 +50,7 @@ If your project consists of one biological replicate you can still publish your 
 
 ## Additional resources
 - Bell, G. Replicates and repeats. *BMC Biol* **14,** 28 (2016). https://doi.org/10.1186/s12915-016-0254-5
-- Vaux DL, Fidler F, Cumming G. Replicates and repeats--what is the difference and is it significant? A brief discussion of statistics and experimental design. *EMBO Rep.*  **13,**291-296 (2012). https://doi.org/10.1038/embor.2012.36
+- Vaux DL, Fidler F, Cumming G. Replicates and repeats--what is the difference and is it significant? A brief discussion of statistics and experimental design. *EMBO Rep.* **13,**291-296 (2012). https://doi.org/10.1038/embor.2012.36
 - Blainey P, Krzywinski M & Altman N.  Replication. *Nat Methods* **11,** 879–880 (2014). https://doi.org/10.1038/nmeth.3091
 
 
